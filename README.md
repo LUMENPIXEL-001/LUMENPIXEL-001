@@ -1,3 +1,5 @@
+### "Information Transmission and Information Commitment are Fundamentally Separated"
+
 # Welcome to the Architectural Archive
 
 This space preserves a set of **architectural reference frameworks** that explore alternative ways of structuring computation under physical and systemic constraints.
