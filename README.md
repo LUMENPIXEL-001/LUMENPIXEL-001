@@ -10,10 +10,10 @@ The repositories collected here document a line of reasoning that examines energ
 
 ### 📂 Integrated Repositories
 
-* **[Invention 01] Hybrid Computing Architecture**  
+* **prca**  
   A hybrid system architecture that conceptually separates information *transmission* from irreversible *state commitment* in order to reduce energy expenditure and synchronization overhead.
 
-* **[Invention 02] Q-Phase Protocol**  
+* **prca-phase-protocol**  
   A global coordination and synchronization framework based on phase resonance, intended to explore alternatives to address-based routing and centralized control.
 
 * **[S100 Diagram] Global Substrate Synchronization**  
