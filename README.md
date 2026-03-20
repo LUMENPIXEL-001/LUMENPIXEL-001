@@ -26,3 +26,16 @@ The focus is not on a specific device or fabrication process, but on the system-
 This archive serves as an origin reference for the PRCA structural model.
 
 Interpretation, validation, and implementation remain open.
+
+
+## Prior Art Registration
+
+This work is formally registered as public prior art via Zenodo.
+
+| Document | DOI |
+|---|---|
+| Invention 01 — Hybrid Computing Architecture | https://doi.org/10.5281/zenodo.19113471 |
+| Invention 02 — Q-Phase Protocol | https://doi.org/10.5281/zenodo.19113910 |
+| Implementation Guide | https://doi.org/10.5281/zenodo.19128851 |
+
+These records establish the public origin of the PRCA framework.
