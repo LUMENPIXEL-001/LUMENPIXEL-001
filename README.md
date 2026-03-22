@@ -2,7 +2,13 @@
 
 # Welcome to the PRCA (Phase-Resolved Commitment Architecture) Archive
 
-PRCA defines a structural separation between data transport and irreversible state commitment within charge-transport–based computing systems.
+PRCA is a structural architecture in which
+information transport is independent from,
+and precedes, irreversible state commitment.
+
+This separation is the defining structural
+property of PRCA. Removing it destroys
+the architecture itself.
 
 This archive documents the architectural foundation, coordination protocols, and structural diagrams that compose the PRCA framework.
 
