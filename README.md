@@ -40,6 +40,7 @@ This work is formally registered as public prior art via Zenodo.
 
 | Document | DOI |
 |---|---|
+| Prca | https://doi.org/10.5281/zenodo.19255111 |
 | Invention 01 — Hybrid Computing Architecture | https://doi.org/10.5281/zenodo.19113471 |
 | Invention 02 — Q-Phase Protocol | https://doi.org/10.5281/zenodo.19113910 |
 | Implementation Guide | https://doi.org/10.5281/zenodo.19248052 |
