@@ -1,4 +1,4 @@
-<img width="549" height="550" alt="j-001" src="https://github.com/user-attachments/assets/d5f788cf-9dbe-42bb-8617-b4eefad2fb4e" />
+<img width="549" height="550" alt="Image" src="https://github.com/user-attachments/assets/9f88e913-c0de-4aa4-8fe4-90f7c92641f5" />
 
 ### "Information Transmission and Information Commitment are Fundamentally Separated"
 
