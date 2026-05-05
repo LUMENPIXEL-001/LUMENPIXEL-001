@@ -1,50 +1,7 @@
 <img width="549" height="550" alt="Image" src="https://github.com/user-attachments/assets/17a265bf-bf67-419a-838c-83d2984c7b57" />
 
-### "Information Transmission and Information Commitment are Fundamentally Separated"
-
-# Welcome to the PRCA (Phase-Resolved Commitment Architecture) Archive
-
-PRCA is a structural architecture in which
-information transport is independent from,
-and precedes, irreversible state commitment.
-
-This separation is the defining structural
-property of PRCA. Removing it destroys
-the architecture itself.
-
-This archive documents the architectural foundation, coordination protocols, and structural diagrams that compose the PRCA framework.
-
-The focus is not on a specific device or fabrication process, but on the system-level reorganization of synchronization, coordination, and state commitment under physical constraints.
-
----
-### 📂 Integrated Repositories
-
-* **prca**  
-  Defines the parent structural architecture separating transport and commitment domains.
-
-* **prca-phase-protocol**  
-  Describes the phase-conditioned coordination model operating across a shared substrate.
-
-* **[S100 Diagram] Global Substrate Synchronization**  
-  Illustrates system-level mapping of non-local coordination and threshold-based commitment.
----
-
-### 🕊️ Purpose
-
-This archive serves as an origin reference for the PRCA structural model.
-
-Interpretation, validation, and implementation remain open.
-
-
-## Prior Art Registration
-
-This work is formally registered as public prior art via Zenodo.
-
-| Document | DOI |
-|---|---|
-| Prca | https://doi.org/10.5281/zenodo.19255111 |
-| Invention 01 — Hybrid Computing Architecture | https://doi.org/10.5281/zenodo.19113471 |
-| Invention 02 — Q-Phase Protocol | https://doi.org/10.5281/zenodo.19113910 |
-| Implementation Guide | https://doi.org/10.5281/zenodo.19282151 |
-
-These records establish the public origin of the PRCA framework.
+LVC — Lagrangian Variable Cosmology
+A cosmology in which the expansion history is derived from the closed-form solution of a parametric pendulum equation v''(θ) + Ω²(θ)v(θ) = 0 on the logarithmic-time variable θ = ln(1+z).
+A Gaussian modulation locked to the critical point z_c = 1/φ (golden ratio) and width w = e/(5π) generates a time-dependent dark-energy density Ω_LVC(z). The Friedmann equation contains no separate cosmological-constant term.
+In the A → 0 limit, Ω_LVC(z) collapses to a constant (1−Ω_m); this special case corresponds to ΛCDM.
+On the joint dataset (Pantheon+ unbinned 1701 SN + DESI DR1+DR2 BAO + BOSS + eBOSS + Planck distance priors + SH0ES, N=1738), LVC is preferred over ΛCDM at ΔBIC = −14.62 (k=4).
