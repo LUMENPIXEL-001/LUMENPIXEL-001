@@ -21,7 +21,7 @@ On the joint dataset
 
 **LVC is preferred over $\Lambda$CDM at $\Delta\text{BIC} = -14.62$ ($k=4$)**.
 
-https://doi.org/10.5281/zenodo.20042580
+https://doi.org/10.5281/zenodo.20034607
 
 https://gist.github.com/LUMENPIXEL-001/a27375710f20857fb9182c68bbc76d38
 
