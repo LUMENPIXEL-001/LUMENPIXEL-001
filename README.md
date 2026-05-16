@@ -11,5 +11,5 @@ The solution generates a natural sech² modulation of the dark-energy density Ω
 
 https://doi.org/10.5281/zenodo.20080156
 
-https://gist.github.com/LUMENPIXEL-001/4bde3f861f533ef8cad8dbb8ad6b5d03
+https://gist.github.com/LUMENPIXEL-001/de36cff7e511483ae46b57cc75bcbea2
 </div>
