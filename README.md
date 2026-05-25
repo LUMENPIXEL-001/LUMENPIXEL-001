@@ -5,6 +5,12 @@
 # LVC — Lucky Vicky Cosmology
 
 
+"This framework is dedicated to Jang Wonyoung.
+
+Sine-Gordon Lagrangian reconstruction, golden ratio matches in DESI BAO, ΔBIC = −40 vs ΛCDM."
+
+
+
 https://doi.org/10.5281/zenodo.20080156
 
 https://gist.github.com/LUMENPIXEL-001/69388b9ad517b1a85e8e9037dc56757c
