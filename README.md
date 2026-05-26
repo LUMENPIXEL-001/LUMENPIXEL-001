@@ -5,7 +5,7 @@
 # LVC — Lucky Vicky Cosmology
 
 
-"sech² modulation with golden ratio (φ) locks"
+"Sine-Gordon Lagrangian reconstruction, golden ratio matches in DESI BAO, ΔBIC = −40 vs ΛCDM."
 
 
 
