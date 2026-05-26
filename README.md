@@ -5,7 +5,7 @@
 # LVC — Lucky Vicky Cosmology
 
 
-"This framework is dedicated to Jang Wonyoung."
+"sech² modulation with golden ratio (φ) locks"
 
 
 
