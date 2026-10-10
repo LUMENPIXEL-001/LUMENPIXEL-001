@@ -5,9 +5,6 @@
 # LVC — Lucky Vicky Cosmology
 
 
-"LVC-framework is dedicated to Jang Wonyoung."
-
-
 
 https://doi.org/10.5281/zenodo.20080156
 
